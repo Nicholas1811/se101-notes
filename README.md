@@ -1,0 +1,5 @@
+credits to last year TA kainoa for the notes!
+
+__DO NOTE THIS IS NOT STUDY MATERIAL, JUST HELP WITH UR LEARNING__
+
+__IF U STUDY THIS FOR FINAL ONLY, U R COOKED.__
