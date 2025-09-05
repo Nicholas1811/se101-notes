@@ -1,9 +1,3 @@
-## What You Need to Know
-Everything… except slides:
-- 13
-- 15
-- 21 (just know that moderns OSs usually support threads)
-- 32 (just know a few should b good)
 
 _Disclaimer: Anything in the slides can be tested, But I THINK these u can kinda ignore, just know they exist…_
 ## Structure of a Program
